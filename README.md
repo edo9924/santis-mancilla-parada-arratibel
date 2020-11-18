@@ -2,9 +2,9 @@
 EPE3 de Taller de Programacion II - Profesor Cristian Molina.
 
 Equipo front-end:
-  - Parada
-  - Mancilla
+  - Marco Parada
+  - Eduardo Mancilla
 
 Equipo back-end:
-  - Arratibel
-  - Santis
+  - Matias Arratibel
+  - Matias Santis
